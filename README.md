@@ -23,7 +23,7 @@
       <a href="https://www.facebook.com/hieptt.2003" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="hieptt.2003@gmail.com" target="blank"><img align="center"
+      <a href="mailto:hieptt.2003@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
