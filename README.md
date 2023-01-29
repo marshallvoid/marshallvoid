@@ -16,7 +16,7 @@
     <h2 align="center">You can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/trần-hiệp-6a83a2260" target="blank"><img align="center"
+      <a href="www.linkedin.com/in/tranthiep2912003" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="https://www.facebook.com/hieptt.2003" target="blank"><img align="center"
@@ -27,7 +27,7 @@
          alt="azzar" height="30"/></a>
     </p>
   <p align="center">
-      <a href="https://www.instagram.com/_theip29/" target="blank"><img align="center"
+      <a href="#" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="#" target="blank"><img align="center"
