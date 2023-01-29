@@ -26,7 +26,7 @@
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
-  <p align="center">
+<!--   <p align="center">
       <a href="#" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
@@ -37,12 +37,12 @@
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="azzar" height="30"/></a>
       <br>
-    </p>
+    </p> -->
   </samp>
 </div>
 </details>
   
-<details> 
+<!-- <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
   <samp>
@@ -75,7 +75,7 @@
      <br>
      </samp>
   </div>    
-</details>
+</details> -->
   
 
 
