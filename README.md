@@ -42,7 +42,7 @@
 </div>
 </details>
   
-<details> 
+<!-- <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
   <samp>
@@ -63,7 +63,7 @@
           alt="1999AZZAR :: Top Langs by commit" />
           </a>
         </p>
-</details>
+</details> -->
 <!--     <details open>
   <summary><h3>stasistic</h3></summary>
         <p align="center">
