@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Ho Chi Minh City**
 - 🌱 I’m currently learning **Game Developer**
 - 📫 How to reach me **hieptt.2003@gmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/tranthiep2912003/](https://www.linkedin.com/in/tranthiep2912003/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/tranthiep2912003/)
 
 
 
