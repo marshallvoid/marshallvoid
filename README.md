@@ -2,7 +2,11 @@
 
 <a href="https://app.daily.dev/Maryokuu"><img align="right" src="https://github.com/Maryokuu/Maryokuu/blob/main/devcard.svg" width="400" alt="Maryokuu Dev Card"/></a>
 
-- Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"/>, I'm Thanh Hiệp, but you can also call me Maryokuu**
+- Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"/>, I'm Thanh Hiệp, but you can also call me **Maryokuu**
+- 🔭 I’m currently working on **Ho Chi Minh City**
+- 🌱 I’m currently learning **Game Developer**
+- 📫 How to reach me **hieptt.2003@gmail.com**
+- 📄 Know about my experiences [[https://www.linkedin.com/in/do-chi-hung/](https://www.linkedin.com/in/do-chi-hung/)](https://www.linkedin.com/in/tranthiep2912003/)
 
 
 
