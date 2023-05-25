@@ -1,8 +1,9 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
+<a align="right" href="https://app.daily.dev/Maryokuu"><img src="https://github.com/Maryokuu/Maryokuu/blob/main/devcard.svg" width="400" alt="Maryokuu Dev Card"/></a>
+
 Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"/>, I'm Thanh Hiệp, but you can also call me Maryokuu
 
-<a align="right" href="https://app.daily.dev/Maryokuu"><img src="https://github.com/Maryokuu/Maryokuu/blob/main/devcard.svg" width="400" alt="Maryokuu Dev Card"/></a>
 
 
 <!-- <p align="center" width="150px"> I have just kickstarted my career as a software developer intern after completing my undergraduation in the year 2021. <br>Soon, I would be joining New York University for Masters' of Computer Science program.</p> -->
