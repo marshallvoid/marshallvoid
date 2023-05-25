@@ -4,7 +4,7 @@
 
 <div style="display: flex;">
   <h1>Maryokuu</h1>
-  <a style="display: block;" href="https://app.daily.dev/Maryokuu"><img src="https://github.com/Maryokuu/Maryokuu/blob/main/devcard.svg" width="400" alt="Maryokuu Dev Card"/></a>
+  <a href="https://app.daily.dev/Maryokuu"><img src="https://github.com/Maryokuu/Maryokuu/blob/main/devcard.svg" width="400" alt="Maryokuu Dev Card"/></a>
 </div>
 
 
