@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-<h1 align="center">
+<h1 align="center" style="display:flex;">
   <p align="left">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"/>, I'm Thanh Hiệp, but you can also call me Maryokuu</p>
   <p alignn="right"><a href="https://app.daily.dev/Maryokuu"><img src="https://github.com/Maryokuu/Maryokuu/blob/main/devcard.svg" width="400" alt="Maryokuu Dev Card"/></a></p>
 </h1>
