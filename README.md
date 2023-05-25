@@ -2,10 +2,17 @@
 
 <!-- <h2 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Thanh Hiệp, but you can also call me Maryokuu</h2> -->
 
-<div style="display: flex;">
+<table>
+  <tr>
+    <td>Maryokuu</td>
+    <td><a href="https://app.daily.dev/Maryokuu"><img src="https://github.com/Maryokuu/Maryokuu/blob/main/devcard.svg" width="400" alt="Maryokuu Dev Card"/></a></td>
+  </tr>
+</table>
+
+<!-- <div style="display: flex;">
   <h1>Maryokuu</h1>
   <a href="https://app.daily.dev/Maryokuu"><img src="https://github.com/Maryokuu/Maryokuu/blob/main/devcard.svg" width="400" alt="Maryokuu Dev Card"/></a>
-</div>
+</div> -->
 
 
 
