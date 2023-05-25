@@ -3,6 +3,9 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 
+<a href="https://app.daily.dev/Maryokuu"><img src="https://api.daily.dev/devcards/07c6f49c29454abf8d3c18b6be588bbf.png?r=lsr" width="400" alt="Trần Thanh Hiệp's Dev Card"/></a>
+
+
 <!-- <p align="center" width="150px"> I have just kickstarted my career as a software developer intern after completing my undergraduation in the year 2021. <br>Soon, I would be joining New York University for Masters' of Computer Science program.</p> -->
 
 <!-- ### :link: &nbsp;Connect with me
