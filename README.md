@@ -1,11 +1,9 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-<table>
-  <tr>
-    <h2 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Thanh Hiệp, but you can also call me Maryokuu</h2>
-  <a href="https://app.daily.dev/Maryokuu"><img src="https://github.com/Maryokuu/Maryokuu/blob/main/devcard.svg" width="400" alt="Maryokuu Dev Card"/></a>
-  </tr>
-</table>
+<div style="display: flex;">
+  <h2 style="text-align: center; display: block;">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Thanh Hiệp, but you can also call me Maryokuu</h2>
+  <a style="display: block;" href="https://app.daily.dev/Maryokuu"><img src="https://github.com/Maryokuu/Maryokuu/blob/main/devcard.svg" width="400" alt="Maryokuu Dev Card"/></a>
+</div>
 
 
 
