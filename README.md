@@ -24,6 +24,4 @@
 
 <!-- Stats -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryokuu&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maryokuu&show_icons=true&theme=transparent)
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Maryokuu&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maryokuu&rank_icon=github&card_width=400&show_icons=true&theme=transparent)
