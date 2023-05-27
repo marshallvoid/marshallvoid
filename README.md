@@ -27,4 +27,4 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maryokuu&show_owner=true&repo=Doge-Game)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maryokuu&show_owner=true&repo=Doge-Game)](https://github.com/Maryokuu/Doge-Game)
