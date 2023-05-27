@@ -2,10 +2,10 @@
 
 <a target="_blank" href="https://app.daily.dev/Maryokuu"><img align="right" src="https://github.com/Maryokuu/Maryokuu/blob/main/devcard.svg" width="400" alt="Maryokuu Dev Card"/></a>
 
-<p>- Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"/>, I'm Thanh Hiệp, but you can also call me <b>Maryokuu</b></p>
-<p>- 🔭 I’m currently working on Ho Chi Minh City</p>
-<p>- 🌱 I’m currently learning <b>Game Developer</b></p>
-<p>- 📫 How to reach me <a href="mailto:hieptt.2003@gmail.com">Gmail</a></p>
+- Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"/>, I'm Thanh Hiệp, but you can also call me **Maryokuu**
+- 🔭 I’m currently working on Ho Chi Minh City
+- 🌱 I’m currently learning **Game Developer**
+- 📫 How to reach me <a href="mailto:hieptt.2003@gmail.com">Gmail</a>
 
 ### :link: &nbsp;Connect with me
 <p align="center">
