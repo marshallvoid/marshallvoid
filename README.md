@@ -22,5 +22,5 @@
 #### - 📫 How to reach me <a href="mailto:hieptt.2003@gmail.com">Gmail</a>
 
 <!-- Stats -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryokuu&layout=compact&card_width=500&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryokuu&layout=compact&card_width=350&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maryokuu&hide=prs,issues&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent)
