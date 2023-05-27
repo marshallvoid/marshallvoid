@@ -2,7 +2,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 <!-- Contact -->
-### :link: &nbsp;Connect with me
+<!-- ### :link: &nbsp;Connect with me -->
 <p align="center">
   <a target="blank" href="https://www.linkedin.com/in/tranthiep2912003/"><img align="center" src="https://i.imgur.com/9YcFzKc.png" alt="linkedin" height="50" width="50"/></a>
   <a target="blank" href="https://www.facebook.com/t.theip2901"><img align="center" src="https://i.imgur.com/8TclXou.png" alt="facebook" height="50" width="50"/></a>
