@@ -1,7 +1,7 @@
 <!-- Header -->
-<p align="center"><a href="#"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></a></p>
+<p align="center"><a href=""><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></a></p>
 
-<!-- LINE --> <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></a>
+<!-- LINE --> <a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></a>
 
 <!-- Dev Card -->
 <a target="_blank" href="https://app.daily.dev/Maryokuu"><img align="right" src="https://github.com/Maryokuu/Maryokuu/blob/main/devcard.svg" width="350" alt="Maryokuu Dev Card"/></a>
@@ -24,11 +24,11 @@
 
 <!-- Stats -->
 <p align="center">
-	<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryokuu&layout=compact&hide_border=true&theme=tokyonight"/></a>
-	<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Maryokuu&hide=prs,issues&rank_icon=github&show_icons=truee&custom_title=Maryokuu&hide_border=true&theme=tokyonight"/></a>
+	<a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryokuu&layout=compact&hide_border=true&theme=tokyonight"/></a>
+	<a href=""><img src="https://github-readme-stats.vercel.app/api?username=Maryokuu&hide=prs,issues&rank_icon=github&show_icons=truee&custom_title=Maryokuu&hide_border=true&theme=tokyonight"/></a>
 </p>
 
-<!-- LINE --> <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></a>
+<!-- LINE --> <a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></a>
 
 <!-- Contact -->
 <!-- ## :link:Connect with me<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> -->
