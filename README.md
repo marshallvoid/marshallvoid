@@ -51,7 +51,7 @@
 	<a href="https://github.com/Maryokuu/Flappy-Bird">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Maryokuu&show_owner=true&repo=Flappy-Bird&theme=tokyonight"/>
 	</a>
-	<a href="https://github.com/Maryokuu/Web-Design">
+	<a href="https://github.com/Maryokuu/Food-Management">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Maryokuu&show_owner=true&repo=Food-Management&theme=tokyonight"/>
 	</a>
 	<a href="https://github.com/Maryokuu/Words-Counter">
