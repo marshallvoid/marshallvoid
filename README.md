@@ -27,7 +27,20 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maryokuu&show_owner=true&repo=Doge-Game&theme=transparent)](https://github.com/Maryokuu/Doge-Game)
+<a href="https://github.com/Maryokuu/Doge-Game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maryokuu&show_owner=true&repo=Doge-Game&theme=transparent"/>
+</a>
+<a href="https://github.com/Maryokuu/Flappy-Bird">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maryokuu&show_owner=true&repo=Flappy-Bird&theme=transparent"/>
+</a>
+<a href="https://github.com/Maryokuu/Web-Design">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maryokuu&show_owner=true&repo=Web-Design&theme=transparent"/>
+</a>
+<a href="https://github.com/Maryokuu/Words-Counter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maryokuu&show_owner=true&repo=Words-Counter&theme=transparent"/>
+</a>
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maryokuu&show_owner=true&repo=Doge-Game&theme=transparent)](https://github.com/Maryokuu/Doge-Game)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maryokuu&show_owner=true&repo=Flappy-Bird&theme=transparent)](https://github.com/Maryokuu/Flappy-Bird)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maryokuu&show_owner=true&repo=Web-Design&theme=transparent)](https://github.com/Maryokuu/Web-Design)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maryokuu&show_owner=true&repo=Words-Counter&theme=transparent)](https://github.com/Maryokuu/Words-Counter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maryokuu&show_owner=true&repo=Words-Counter&theme=transparent)](https://github.com/Maryokuu/Words-Counter) -->
