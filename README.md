@@ -7,7 +7,7 @@
 #### - 🌱 I’m currently learning **Game Developer**
 #### - 📫 How to reach me <a href="mailto:hieptt.2003@gmail.com">Gmail</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maryokuu)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maryokuu&show_icons=true)
 
 ### :link: &nbsp;Connect with me
 <p align="center">
