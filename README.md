@@ -4,7 +4,7 @@
 <!-- Contact -->
 <!-- ### :link: &nbsp;Connect with me -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center" display="flex" flex-direction="columnnn">
+<p align="center">
 	<a target="blank" href="https://www.linkedin.com/in/tranthiep2912003/"><img align="center" src="https://i.imgur.com/9YcFzKc.png" alt="linkedin" height="50" width="50"/></a>
 	<a target="blank" href="https://www.facebook.com/t.theip2901"><img align="center" src="https://i.imgur.com/8TclXou.png" alt="facebook" height="50" width="50"/></a>
 			<a target="blank" href="https://www.instagram.com/t.theip2901/"><img align="center" src="https://i.imgur.com/l5VLeAv.png" alt="instagram" height="50" width="50"/></a>
