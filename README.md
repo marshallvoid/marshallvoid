@@ -14,7 +14,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Dev Card -->
-<a target="_blank" href="https://app.daily.dev/Maryokuu"><img align="right" src="https://github.com/Maryokuu/Maryokuu/blob/main/devcard.svg" width="300" alt="Maryokuu Dev Card"/></a>
+<a target="_blank" href="https://app.daily.dev/Maryokuu"><img align="right" src="https://github.com/Maryokuu/Maryokuu/blob/main/devcard.svg" width="350" alt="Maryokuu Dev Card"/></a>
 
 <!-- Description -->
 #### - Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"/>, I'm Thanh Hiệp, but you can also call me **Maryokuu**
@@ -24,4 +24,4 @@
 
 <!-- Stats -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryokuu&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maryokuu&card_width=200&rank_icon=github&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maryokuu&card_width=200&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent)
