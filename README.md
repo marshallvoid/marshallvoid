@@ -9,7 +9,13 @@
 <p>- 📄 Know about my experiences <a target="_blank" href="https://www.linkedin.com/in/tranthiep2912003/">Linkedln</a></p>
 
 ### :link: &nbsp;Connect with me
-
+<p align="center">
+  <a target="blank" href=""><img align="center" src="https://i.imgur.com/AkmLjRg.png" alt="linkedin" height="50" width="50"/></a>
+  <a target="blank" href=""><img align="center" src="https://i.imgur.com/x87rTgJ.png" alt="facebook" height="50" width="50"/></a>
+  <a target="blank" href=""><img align="center" src="https://i.imgur.com/FjmOo1p.png" alt="twitter" height="50" width="50"/></a>
+  <a target="blank" href=""><img align="center" src="https://i.imgur.com/86yOsMy.png" alt="instagram" height="50" width="50"/></a>
+  <a target="blank" href=""><img align="center" src="https://i.imgur.com/d2RspbO.png" alt="discord" height="50" width="50"/></a>
+</p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
