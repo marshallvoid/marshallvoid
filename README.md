@@ -14,7 +14,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Dev Card -->
-<a target="_blank" href="https://app.daily.dev/Maryokuu"><img align="right" src="https://github.com/Maryokuu/Maryokuu/blob/main/devcard.svg" width="400" alt="Maryokuu Dev Card"/></a>
+<a target="_blank" href="https://app.daily.dev/Maryokuu"><img align="right" src="https://github.com/Maryokuu/Maryokuu/blob/main/devcard.svg" width="300" alt="Maryokuu Dev Card"/></a>
 
 <!-- Description -->
 #### - Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"/>, I'm Thanh Hiệp, but you can also call me **Maryokuu**
