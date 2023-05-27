@@ -26,7 +26,7 @@
 <!-- Stats -->
 <p align="center">
 	<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryokuu&layout=compact&theme=transparent"/></a>
-	<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Maryokuu&hide=prs,issues&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent"/></a>
+	<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Maryokuu&hide=prs,issues&rank_icon=github&show_icons=true&custom_title=Maryokuu's-Github-Stats&theme=transparent"/></a>
 </p>
 
 <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></a>
