@@ -54,5 +54,7 @@
 	<a href="https://github.com/Maryokuu/Food-Management">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Maryokuu&show_owner=true&repo=Food-Management&theme=tokyonight"/>
 	</a>
-
+	<a href="https://github.com/Maryokuu/Words-Counter">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Maryokuu&show_owner=true&repo=Words-Counter&theme=tokyonight"/>
+	</a>
 </p>
