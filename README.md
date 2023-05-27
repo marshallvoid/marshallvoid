@@ -24,4 +24,4 @@
 
 <!-- Stats -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryokuu&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maryokuu&rank_icon=github&card_width=400&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maryokuu&hide=true&card_width=300&rank_icon=github&show_icons=true&custome_title=Maryokuu&theme=transparent)
