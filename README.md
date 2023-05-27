@@ -25,8 +25,8 @@
 
 <!-- Stats -->
 <p align="center">
-	<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryokuu&layout=compact&theme=transparent"/></a>
-	<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Maryokuu&hide=prs,issues&rank_icon=github&show_icons=true&count_private=true&custom_title=Maryokuu&theme=transparent"/></a>
+	<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryokuu&layout=compact&theme=tokyonight"/></a>
+	<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Maryokuu&hide=prs,issues&rank_icon=github&show_icons=truee&custom_title=Maryokuu&theme=tokyonight"/></a>
 </p>
 
 <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></a>
@@ -34,15 +34,15 @@
 <!-- Pins Repo -->
 <p align="center">
 	<a href="https://github.com/Maryokuu/Doge-Game">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maryokuu&show_owner=true&repo=Doge-Game&theme=transparent"/>
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maryokuu&theme=tokyonight&show_owner=true&repo=Doge-Game&theme=transparent"/>
 	</a>
 	<a href="https://github.com/Maryokuu/Flappy-Bird">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maryokuu&show_owner=true&repo=Flappy-Bird&theme=transparent"/>
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maryokuu&theme=tokyonight&show_owner=true&repo=Flappy-Bird&theme=transparent"/>
 	</a>
 	<a href="https://github.com/Maryokuu/Web-Design">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maryokuu&show_owner=true&repo=Web-Design&theme=transparent"/>
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maryokuu&theme=tokyonight&show_owner=true&repo=Web-Design&theme=transparent"/>
 	</a>
 	<a href="https://github.com/Maryokuu/Words-Counter">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maryokuu&show_owner=true&repo=Words-Counter&theme=transparent"/>
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maryokuu&theme=tokyonight&show_owner=true&repo=Words-Counter&theme=transparent"/>
 	</a>
 </p>
