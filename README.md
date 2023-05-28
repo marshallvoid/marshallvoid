@@ -38,7 +38,7 @@
 <h3 align="center">Technologies That I Know👨🏻‍💻</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,java,py,mysql,php,html,css,js,jquery,react,sass,ts,regex,unreal,unity,idea,eclipse,visualstudio,vscode,git,github,gitlab,netlify,replit,heroku,stackoverflow,linux&perline=8&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,java,py,mysql,php,html,css,js,jquery,react,sass,ts,regex,unreal,unity,idea,eclipse,visualstudio,vscode,git,github,githubactions,gitlab,netlify,replit,heroku,firebase,stackoverflow,linux&perline=8&theme=dark" />
   </a>
 </p>
 
