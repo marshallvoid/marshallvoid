@@ -1,5 +1,5 @@
 <!-- Header -->
-<p align="center"><a href="javascript:void(0);"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></a></p>
+<picture><img align="center" src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></picture>
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-<!-- LINE --> <a href="javascript:void(0);"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></a>
+<!-- LINE --> <picture><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></picture>
 
 
 
@@ -42,39 +42,17 @@
 <!-- Skills -->
 ### ⚡ Skills
 <p align="center">
-	<a href="javascript:void(0);">	
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="cpp"/>
-	</a>
-	<a href="javascript:void(0);">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="csharp" />
-	</a>
-	<a href="javascript:void(0);">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="java" />
-	</a>
-	<a href="javascript:void(0);">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="python" />
-	</a>
-	<a href="javascript:void(0);">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="git" />
-	</a>
-	<a href="javascript:void(0);">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="html5" />
-	</a>
-	<a href="javascript:void(0);">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="css3" />
-	</a>
-	<a href="javascript:void(0);">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript" />
-	</a>
-	<a href="javascript:void(0);">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="react" />
-	</a>
-	<a href="javascript:void(0);">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" alt="sass" />
-	</a>
-	<a href="javascript:void(0);">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="typescript" />
-	</a>
+	<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="cpp"/></picture>
+	<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="csharp" /></picture>
+	<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="java" /></picture>
+	<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="python" /></picture>
+	<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="git" /></picture>
+	<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="html5" /></picture>
+	<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="css3" /></picture>
+	<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript" /></picture>
+	<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="react" /></picture>
+	<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" alt="sass" /></picture>
+	<picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="typescript" /></picture>
 </p>
 
 
@@ -82,26 +60,16 @@
 <!-- Tools -->
 ### 🛠️ Tools
 <p align="center">
-	<a href="javascript:void(0);">
-		<img src=""/>
-	</a>
-	<a href="javascript:void(0);">
-		<img src=""/>
-	</a>
-	<a href="javascript:void(0);">
-		<img src=""/>
-	</a>
-	<a href="javascript:void(0);">
-		<img src=""/>
-	</a>
-	<a href="javascript:void(0);">
-		<img src=""/>
-	</a>
+	<picture><img src=""/></picture>
+	<picture><img src=""/></picture>
+	<picture><img src=""/></picture>
+	<picture><img src=""/></picture>
+	<picture><img src=""/></picture>
 </p>
 
 
 
-<!-- LINE --> <a href="javascript:void(0);"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></a>
+<!-- LINE --> <picture><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></picture>
 
 
 
