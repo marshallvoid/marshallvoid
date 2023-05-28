@@ -132,10 +132,10 @@
 </p>
 <p align="center">
 	<a href="https://github.com/Maryokuu">
-		<img src="https://github-readme-stats.vercel.app/api?username=Maryokuu&rank_icon=github&show_icons=truee&hide_border=true&custom_title=Maryokuu's%20Github%20Stats&theme=tokyonight"/>
+		<img src="https://github-readme-stats.vercel.app/api?username=Maryokuu&rank_icon=github&show_icons=truee&hide_border=true&custom_title=Maryokuu's%20Github%20Stats&theme=tokyonight&card_width=400"/>
 	</a>
 	<a href="https://github.com/Maryokuu">
-		<img src="https://github-readme-streak-stats.herokuapp.com?user=Maryokuu&theme=tokyonight&hide_border=true&card_width=450"/>
+		<img src="https://github-readme-streak-stats.herokuapp.com?user=Maryokuu&theme=tokyonight&hide_border=true&card_width=400"/>
 	</a>
 </p>
 <p align="center">
