@@ -1,5 +1,5 @@
 <!-- Header -->
-<picture align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></picture>
+<picture><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" width="100%"></picture>
 
 
 
