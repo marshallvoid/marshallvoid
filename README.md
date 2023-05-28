@@ -41,7 +41,8 @@
 
 <!-- Skills annd tools -->
 ### ⚡ Skills and Tools 🛠️
-<p align="center">
+<div style="background-color: rgb(50, 50, 50);">
+	<p align="center">
 	<!-- Skills -->
 	<a href="#">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
@@ -87,10 +88,10 @@
 	</a>
 	<!-- Tools -->
 	<a href="#">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="40" height="40" />
+		<img src="https://i.imgur.com/bR3lORX.png" width="40" height="40" />
 	</a>
 	<a href="#">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" />
+		<img src="https://i.imgur.com/KmUp4Ut.png" width="40" height="40" />
 	</a>
 	<a href="#">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="40" height="40" />
@@ -111,15 +112,10 @@
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
 	</a>
 	<a href="#">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
-	</a>
-	<a href="#">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" />
 	</a>
-	<a href="#">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" />
-	</a>
 </p>
+</div>
 
 
 
