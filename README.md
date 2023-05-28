@@ -36,27 +36,44 @@
 
 <br>
 <br>
-<br>
 
 
 
 <!-- Skills -->
 ### ⚡ Skills
 <p align="center">
-	<a href="">
-		<img src=""/>
+	<a href="#">	
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="cpp"/>
 	</a>
-	<a href="">
-		<img src=""/>
+	<a href="#">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="csharp" />
 	</a>
-	<a href="">
-		<img src=""/>
+	<a href="#">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="java" />
 	</a>
-	<a href="">
-		<img src=""/>
+	<a href="#">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="python" />
 	</a>
-	<a href="">
-		<img src=""/>
+	<a href="#">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="git" />
+	</a>
+	<a href="#">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="html5" />
+	</a>
+	<a href="#">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="css3" />
+	</a>
+	<a href="#">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript" />
+	</a>
+	<a href="#">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="react" />
+	</a>
+	<a href="#">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" alt="sass" />
+	</a>
+	<a href="#">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="typescript" />
 	</a>
 </p>
 
