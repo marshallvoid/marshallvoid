@@ -65,7 +65,7 @@
 
 
 <!-- Technologies -->
-### ⚡ Technologies That I Know ⚡
+### ⚡ Technologies that I know ⚡
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,java,py,mysql,php,html,css,js,jquery,react,sass,ts,regex,unreal,unity,idea,eclipse,visualstudio,vscode,git,github,githubactions,gitlab,netlify,replit,heroku,firebase,stackoverflow,linux&perline=8&theme=dark" />
