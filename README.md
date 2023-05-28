@@ -24,13 +24,9 @@
 
 
 <!-- Description -->
-<p align="center">
-	Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"/>, I'm Thanh Hiệp, but you can also call me <b>Maryokuu</b>
-	<br>
-	🌱 I’m currently learning <strong>Game Developer</strong>
-	<br>
-	📫 How to reach me <a href="mailto:hieptt.2003@gmail.com">Gmail</a>
-</p>
+<h3 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"/>, I'm Thanh Hiệp, but you can also call me Maryokuu</h3>
+<h3 align="center">🌱 I’m currently learning Game Developer</h3>
+<h3 align="center">📫 How to reach me <a href="mailto:hieptt.2003@gmail.com">Gmail</a></h3>
 
 
 
