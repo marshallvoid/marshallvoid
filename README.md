@@ -3,6 +3,10 @@
 
 
 
+---
+
+
+
 <!-- Contact -->
 <p align="center">
 	<a href="https://www.linkedin.com/in/tranthiep2912003/">
@@ -37,7 +41,7 @@
 
 
 
-<!-- LINE --> <a href="##"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></a>
+---
 
 
 
@@ -75,7 +79,7 @@
 
 
 
-<!-- LINE --> <a href="##"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></a>
+---
 
 
 
@@ -104,7 +108,11 @@
 <!-- Github Stats -->
 <h3 align="center">📚 Github Stats 📚</h3>
 
+
+
 ---
+
+
 
 <p align="center">
 	<a href="https://github.com/Maryokuu">
@@ -121,7 +129,7 @@
 </p>
 <p align="center">
 	<a href="https://github.com/Maryokuu">
-		<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maryokuu&custom_title=Maryokuu's%20Contribution%20Graph&theme=tokyo-night" />
+		<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maryokuu&custom_title=Maryokuu's%20Contribution%20Graph&theme=tokyo-night&hide_border=true" />
 	</a>
 </p>
 
