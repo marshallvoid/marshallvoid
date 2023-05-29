@@ -54,9 +54,10 @@
 
 <!-- Description -->
 ### 🔰 About me 🔰
-- Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px" />, I'm Hiệp Trần, but you can also call me **Maryokuu**
-- 🌱 I’m currently learning **Game Developer**
-- 📫 How to reach me <a href="mailto:hieptt.2003@gmail.com">Gmail</a>
+- Hi 👋, I'm Hiệp Trần, but you can also call me **Maryokuu**
+- 🎓 I'm studying at Ho Chi Minh City Open University
+- 📚 I’m currently learning **Game Developer** by self
+- 📫 This is my email [hieptt.2003@gmail.com](hieptt.2003@gmail.com)
 
 
 
