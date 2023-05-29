@@ -54,7 +54,7 @@
 
 <!-- Description -->
 ### 🔰 About me 🔰
-- Hi 👋, I'm Hiệp Trần, but you can also call me **Maryokuu**
+- 👋 Hi, I'm Hiệp Trần, but you can also call me **Maryokuu**
 - 🎓 I'm studying at Ho Chi Minh City Open University
 - 📚 I’m currently learning **Game Developer** by self
 - 📫 This is my email [hieptt.2003@gmail.com](hieptt.2003@gmail.com)
@@ -103,6 +103,9 @@
 
 <!-- Github Stats -->
 <h3 align="center">📚 Github Stats 📚</h3>
+
+---
+
 <p align="center">
 	<a href="https://github.com/Maryokuu">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryokuu&layout=compact&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&theme=tokyonight" />
