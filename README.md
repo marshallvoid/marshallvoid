@@ -1,5 +1,5 @@
 <!-- Header -->
-<p align="center"><a href="#"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" /></a></p>
+<p align="center"><a href="#about-me"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" /></a></p>
 
 
 
@@ -53,7 +53,8 @@
 
 
 <!-- Description -->
-### 🔰 About me 🔰
+<h3 id="about-me">🔰 About me 🔰</h3>
+<!-- ### 🔰 About me 🔰 -->
 - Hi 👋, I'm Hiệp Trần, but you can also call me **Maryokuu**
 - 🎓 I'm studying at Ho Chi Minh City Open University
 - 📚 I’m currently learning **Game Developer** by self
