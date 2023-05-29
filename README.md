@@ -1,5 +1,5 @@
 <!-- Header -->
-<p align="center"><a href="#about-me"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" /></a></p>
+<p align="center"><a href="##"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" /></a></p>
 
 
 
@@ -37,7 +37,7 @@
 
 
 
-<!-- LINE --> <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></a>
+<!-- LINE --> <a href="##"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></a>
 
 
 
@@ -53,9 +53,8 @@
 
 
 <!-- Description -->
-<h3 id="about-me">🔰 About me 🔰</h3>
 <!-- ### 🔰 About me 🔰 -->
-- Hi 👋, I'm Hiệp Trần, but you can also call me **Maryokuu**
+<!-- - Hi 👋, I'm Hiệp Trần, but you can also call me **Maryokuu** -->
 - 🎓 I'm studying at Ho Chi Minh City Open University
 - 📚 I’m currently learning **Game Developer** by self
 - 📫 This is my email [hieptt.2003@gmail.com](hieptt.2003@gmail.com)
@@ -76,7 +75,7 @@
 
 
 
-<!-- LINE --> <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></a>
+<!-- LINE --> <a href="##"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></a>
 
 
 
