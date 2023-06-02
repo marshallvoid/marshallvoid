@@ -100,16 +100,16 @@
 	<div>
 		<p align="center">
 			<a href="https://github.com/Maryokuu/Doge-Game">
-				<img src="https://github-readme-stats.vercel.app/api/pin/?username=Maryokuu&show_owner=true&repo=Doge-Game&theme=tokyonight" />
+				<img src="https://github-readme-stats-umber-pi-80.vercel.app//api/pin/?username=Maryokuu&show_owner=true&repo=Doge-Game&theme=tokyonight" />
 			</a>
 			<a href="https://github.com/Maryokuu/Flappy-Bird">
-				<img src="https://github-readme-stats.vercel.app/api/pin/?username=Maryokuu&show_owner=true&repo=Flappy-Bird&theme=tokyonight" />
+				<img src="https://github-readme-stats-umber-pi-80.vercel.app//api/pin/?username=Maryokuu&show_owner=true&repo=Flappy-Bird&theme=tokyonight" />
 			</a>
 			<a href="https://github.com/Maryokuu/Food-Management">
-				<img src="https://github-readme-stats.vercel.app/api/pin/?username=Maryokuu&show_owner=true&repo=Food-Management&theme=tokyonight" />
+				<img src="https://github-readme-stats-umber-pi-80.vercel.app//api/pin/?username=Maryokuu&show_owner=true&repo=Food-Management&theme=tokyonight" />
 			</a>
 			<a href="https://github.com/Maryokuu/Words-Counter">
-				<img src="https://github-readme-stats.vercel.app/api/pin/?username=Maryokuu&show_owner=true&repo=Words-Counter&theme=tokyonight" />
+				<img src="https://github-readme-stats-umber-pi-80.vercel.app//api/pin/?username=Maryokuu&show_owner=true&repo=Words-Counter&theme=tokyonight" />
 			</a>
 		</p>
 	</div>
@@ -128,12 +128,12 @@
 
 <p align="center">
 	<a href="https://github.com/Maryokuu">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryokuu&layout=compact&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&theme=tokyonight" />
+		<img src="https://github-readme-stats-umber-pi-80.vercel.app//api/top-langs/?username=Maryokuu&layout=compact&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&theme=tokyonight" />
 	</a>
 </p>
 <p align="center">
 	<a href="https://github.com/Maryokuu">
-		<img src="https://github-readme-stats.vercel.app/api?username=Maryokuu&rank_icon=github&show_icons=truee&hide_border=true&custom_title=Maryokuu's%20Github%20Stats&theme=tokyonight&card_width=400" />
+		<img src="https://github-readme-stats-umber-pi-80.vercel.app//api?username=Maryokuu&rank_icon=github&show_icons=truee&hide_border=true&custom_title=Maryokuu's%20Github%20Stats&theme=tokyonight&card_width=400" />
 	</a>
 	<a href="https://github.com/Maryokuu">
 		<img src="https://github-readme-streak-stats.herokuapp.com?user=Maryokuu&theme=tokyonight&hide_border=true&card_width=400" />
