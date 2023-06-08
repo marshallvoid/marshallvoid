@@ -73,9 +73,6 @@
 - 🎓 I'm studying at Ho Chi Minh City Open University
 - 📚 I’m currently learning **Game Developer** by self
 - 📫 This is my email [hieptt.2003@gmail.com](mailto:hieptt.2003@gmail.com)
-<br />
-
-![Profile views](https://gpvc.arturio.dev/Maryokuu)
 
 
 
