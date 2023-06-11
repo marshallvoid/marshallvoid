@@ -15,36 +15,14 @@
 		height="50"
 		width="50" />
 	</a>
-	<a href="https://hashnode.com/@Maryokuu/">
-		<img
-		src="https://i.imgur.com/Xo3nL9E.png"
-		height="50"
-		width="50" />
-	</a>
 	<a href="https://www.facebook.com/t.theip2901/">
 		<img
 		src="https://i.imgur.com/8TclXou.png"
 		height="50"
 		width="50" />
 	</a>
-	<a href="https://www.instagram.com/t.theip2901/">
-		<img src="https://i.imgur.com/l5VLeAv.png"
-		height="50"
-		width="50" />
-	</a>
 	<a href="https://twitter.com/t_theip2901/">
 		<img src="https://i.imgur.com/ZEjdzhy.png"
-		height="50"
-		width="50" />
-	</a>
-	<a href="https://www.twitch.tv/maryokuu2901/">
-		<img src="https://i.imgur.com/M8X3X0E.png"
-		height="50"
-		width="50" />
-	</a>
-	<a href="https://github.com/Maryokuu/">
-		<img
-		src="https://i.imgur.com/XlW7i2S.png"
 		height="50"
 		width="50" />
 	</a>
