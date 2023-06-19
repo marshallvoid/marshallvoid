@@ -40,7 +40,7 @@
 <a href="https://app.daily.dev/Maryokuu">
 	<img
 	align="right"
-	src="https://github.com/Maryokuu/Maryokuu/blob/main/devcard.svg"
+	src="https://github.com/KoonAgnis/KoonAgnis/blob/main/devcard.svg"
 	width="350"
 	alt="Maryokuu Dev Card" />
 </a>
