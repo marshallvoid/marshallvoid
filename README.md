@@ -8,6 +8,7 @@
 
 
 <!-- Contact -->
+<!--
 <p align="center">
 	<a href="https://www.linkedin.com/in/tranthiep2912003/">
 		<img
@@ -31,6 +32,7 @@
 
 
 ---
+-->
 
 
 
