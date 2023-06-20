@@ -81,7 +81,7 @@
 			<img src="https://github-readme-stats-umber-pi-80.vercel.app//api/top-langs/?username=KoonAgnis&layout=compact&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&theme=react" />
 		</a>
 		<a href="https://wakatime.com/@Maryokuu">
-			<img src="https://github-readme-stats-umber-pi-80.vercel.app/api/wakatime?username=Maryokuu&layout=compact&hide_border=true&theme=react" />
+			<img src="https://github-readme-stats-umber-pi-80.vercel.app/api/wakatime?username=KoonAgnis&layout=compact&hide_border=true&theme=react" />
 		</a>
 	</p>
 	<p align="center">
