@@ -7,35 +7,6 @@
 
 
 
-<!-- Contact -->
-<!--
-<p align="center">
-	<a href="https://www.linkedin.com/in/tranthiep2912003/">
-		<img
-		src="https://i.imgur.com/9YcFzKc.png"
-		height="50"
-		width="50" />
-	</a>
-	<a href="https://www.facebook.com/t.theip2901/">
-		<img
-		src="https://i.imgur.com/8TclXou.png"
-		height="50"
-		width="50" />
-	</a>
-	<a href="https://twitter.com/t_theip2901/">
-		<img src="https://i.imgur.com/ZEjdzhy.png"
-		height="50"
-		width="50" />
-	</a>
-</p>
-
-
-
----
--->
-
-
-
 <!-- Dev Card -->
 <a href="https://app.daily.dev/Maryokuu">
 	<img
@@ -75,7 +46,7 @@
 
 
 <!-- Github Stats -->
-<details align="center"><summary><h3>📚 Github Stats 📚</h3></summary>
+<details><summary><h3>📚 Github Stats 📚</h3></summary>
 	<p align="center">
 		<a href="https://github.com/TTHeip2901">
 			<img src="https://github-readme-stats-umber-pi-80.vercel.app//api/top-langs/?username=KoonAgnis&layout=compact&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&theme=react" />
