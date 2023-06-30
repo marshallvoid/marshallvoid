@@ -57,7 +57,7 @@
 	</p>
 	<p align="center">
 		<a href="https://github.com/Maryokuu">
-			<img src="https://github-readme-stats-umber-pi-80.vercel.app//api?username=Maryokuu&rank_icon=github&show_icons=truee&hide_border=true&custom_title=Koon's%20Github%20Stats&theme=react&card_width=400" />
+			<img src="https://github-readme-stats-umber-pi-80.vercel.app//api?username=Maryokuu&rank_icon=github&show_icons=truee&hide_border=true&custom_title=Maryokuu's%20Github%20Stats&theme=react&card_width=400" />
 		</a>
 		<a href="https://github.com/Maryokuu">
 			<img src="https://github-readme-streak-stats.herokuapp.com?user=Maryokuu&theme=react&hide_border=true&card_width=400" />
@@ -65,7 +65,7 @@
 	</p>
 	<p align="center">
 		<a href="https://github.com/Maryokuu">
-			<img src="https://github-readme-activity-graph-sigma-eight.vercel.app//graph?username=Maryokuu&custom_title=Koon's%20Contribution%20Graph&theme=react-dark&hide_border=true" />
+			<img src="https://github-readme-activity-graph-sigma-eight.vercel.app//graph?username=Maryokuu&custom_title=Maryokuu's%20Contribution%20Graph&theme=react-dark&hide_border=true" />
 		</a>
 	</p>
 </details>
