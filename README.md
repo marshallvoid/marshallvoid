@@ -11,7 +11,7 @@
 <a href="https://app.daily.dev/Maryokuu">
 	<img
 	align="right"
-	src="https://github.com/KoonAgnis/KoonAgnis/blob/main/devcard.svg"
+	src="https://github.com/Maryokuu/Maryokuu/blob/main/devcard.svg"
 	width="350"
 	alt="Maryokuu Dev Card" />
 </a>
@@ -20,7 +20,7 @@
 
 <!-- Description -->
 ### 🔰 About me 🔰
-- 👋 Hi, I'm Hiệp Trần, but you can also call me **Koon**
+- 👋 Hi, I'm Hiệp Trần, but you can also call me **Maryokuu**
 - 🎓 I'm studying at Ho Chi Minh City Open University
 - 📚 I’m currently learning **Game Developer** by self
 - 📫 This is my email [hieptt.2003@gmail.com](mailto:hieptt.2003@gmail.com)
