@@ -46,7 +46,6 @@
 
 
 <!-- Github Stats -->
-<!--
 <details><summary><h3>📚 Github Stats 📚</h3></summary>
 	<p align="center">
 		<a href="https://github.com/Maryokuu">
@@ -70,4 +69,3 @@
 		</a>
 	</p>
 </details>
--->
