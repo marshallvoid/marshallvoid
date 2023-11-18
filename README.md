@@ -11,7 +11,7 @@
 <a href="https://app.daily.dev/Maryokuu">
 	<img
 	align="right"
-	src="https://github.com/Maryokuu/Maryokuu/blob/main/devcard.svg"
+	src="https://github.com/HiepThanhTran/HiepThanhTran/blob/main/devcard.svg"
 	width="350"
 	alt="Maryokuu Dev Card" />
 </a>
@@ -31,7 +31,7 @@
 ### ⚡ Languages and Tools ⚡
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,java,py,mysql,html,css,js,jquery,sass,regex,git,github,githubactions&perline=8&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,java,kotlin,py,mysql,html,css,js,jquery,sass,bootstrap,regex,git,github,heroku,vercel,githubactions&perline=5&theme=dark" />
   </a>
 </p>
 
