@@ -11,7 +11,7 @@
 <a href="https://app.daily.dev/Maryokuu">
 	<img
 	align="right"
-	src="https://github.com/HiepThanhTran/HiepThanhTran/blob/main/devcard.svg"
+	src="https://api.daily.dev/devcards/07c6f49c29454abf8d3c18b6be588bbf.png?r=k3m"
 	width="350"
 	alt="Maryokuu Dev Card" />
 </a>
