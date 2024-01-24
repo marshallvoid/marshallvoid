@@ -7,7 +7,7 @@
 
 
 
-<!-- Dev Card -->
+<!-- Dev Card /\/\ https://github.com/HiepThanhTran/HiepThanhTran/blob/master/devcard.svg -->
 <a href="https://app.daily.dev/Maryokuu">
 	<img
 	align="right"
