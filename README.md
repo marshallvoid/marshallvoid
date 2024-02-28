@@ -8,12 +8,12 @@
 
 
 <!-- Dev Card /\/\ https://github.com/HiepThanhTran/HiepThanhTran/blob/master/devcard.svg -->
-<a href="https://app.daily.dev/Maryokuu">
+<a href="https://app.daily.dev/maryoku">
 	<img
 	align="right"
-	src="https://api.daily.dev/devcards/07c6f49c29454abf8d3c18b6be588bbf.png?r=k3m"
+	src="./devcard.png"
 	width="350"
-	alt="Maryokuu Dev Card" />
+	alt="Maryoku Dev Card" />
 </a>
 
 
