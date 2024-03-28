@@ -20,7 +20,7 @@
 
 <!-- Description -->
 ### 🔰 About me 🔰
-- 👋 Hi, I'm Trần Thanh Hiệp, but you can also call me **Maryoku**
+- 👋 Hi, I'm Tran Thanh Hiep, but you can also call me **Devlin**
 - 🎓 I'm studying at Ho Chi Minh City Open University
 <!-- - 📚 I’m currently learning **Game Developer** by self -->
 - 📫 This is my email [hieptt.2003@gmail.com](mailto:hieptt.2003@gmail.com)
