@@ -23,7 +23,7 @@
 - 👋 Hi, I'm Tran Thanh Hiep, but you can also call me **Devlin**
 - 🎓 I'm studying at Ho Chi Minh City Open University
 - 📚 I’m currently learning **Software Developer** by self
-- 📫 This is my email [hieptt.2003@gmail.com](mailto:hieptt.2003@gmail.com)
+- 📫 This is my email [hiepthanhtran.2003@gmail.com](mailto:hiepthanhtran.2003@gmail.com)
 
 
 
