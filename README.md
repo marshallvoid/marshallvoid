@@ -31,11 +31,11 @@
 ### ⚡ Languages and Tools ⚡
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,java,kotlin,py,mysql,html,css,js,jquery,sass,bootstrap,regex,git,github,heroku,vercel,githubactions&perline=5&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,py,django,mysql,html,css,js,jquery,sass,bootstrap,react,regex,git,github,heroku,vercel,githubactions,selenium&perline=5&theme=dark" />
   </a>
 </p>
 
-
+<!-- c,cpp,cs,dotnet,java,kotlin,py,mysql,html,css,js,jquery,sass,bootstrap,regex,git,github,heroku,vercel,githubactions -->
 
 <br />
 
