@@ -1,14 +1,10 @@
 <!-- Header -->
 <p align="center"><a href="##"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" /></a></p>
 
-
-
 ---
 
-
-
 <!-- Dev Card /\/\ https://github.com/HiepThanhTran/HiepThanhTran/blob/master/devcard.svg -->
-<a href="https://app.daily.dev/maryoku">
+<a href="https://app.daily.dev/devlin">
 	<img
 	align="right"
 	src="./devcard.png"
@@ -25,8 +21,6 @@
 - 📚 I’m currently learning **Software Developer** by self
 - 📫 This is my email [hiepthanhtran.2003@gmail.com](mailto:hiepthanhtran.2003@gmail.com)
 
-
-
 <!-- Technologies -->
 ### ⚡ Languages and Tools ⚡
 <p align="center">
@@ -35,8 +29,4 @@
   </a>
 </p>
 
-<!-- c,cpp,cs,dotnet,java,kotlin,py,mysql,html,css,js,jquery,sass,bootstrap,regex,git,github,heroku,vercel,githubactions -->
-
 <br />
-
-
