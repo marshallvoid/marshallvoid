@@ -3,7 +3,6 @@
 
 ---
 
-<!-- Dev Card /\/\ https://github.com/HiepThanhTran/HiepThanhTran/blob/master/devcard.svg -->
 <a href="https://app.daily.dev/hdevlin2913">
 	<img
 	align="right"
