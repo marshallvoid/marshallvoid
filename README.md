@@ -1,5 +1,5 @@
 <!-- Header -->
-<p align="center"><a href="##"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" /></a></p>
+<p align="center"><a href="##"><img src="./images/gif-2.gif" /></a></p>
 
 ---
 
