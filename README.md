@@ -16,8 +16,7 @@
 <!-- Description -->
 ### 🔰 About me 🔰
 - 👋 Hi, I'm Tran Thanh Hiep, but you can also call me **Devlin**
-- 🎓 I'm studying at Ho Chi Minh City Open University
-- 📚 I’m currently learning **Software Developer** by self
+- 📚 I’m currently learning **Software Engineer** by self
 - 📫 This is my email [hieptt.dev@gmail.com](mailto:hieptt.dev@gmail.com)
 
 <!-- Technologies -->
