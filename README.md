@@ -3,7 +3,7 @@
 
 ---
 
-<a href="https://app.daily.dev/hdevlinz">
+<a href="https://app.daily.dev/deviquee">
 	<img
 	align="right"
 	src="./devcard.png"
