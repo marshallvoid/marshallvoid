@@ -14,14 +14,15 @@
 <br />
 
 <!-- Description -->
-### 🔰 About me 🔰
+<!-- ### 🔰 About me 🔰
 - 👋 Hi, I'm **Devlin**
 - 📚 I’m currently learning **Software Engineer** by self
 - 📫 [This is my email](mailto:hieptt.dev@gmail.com)
+-->
 
 <!-- Technologies -->
 ### ⚡ Languages and Tools ⚡
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,py,django,mysql,html,css,js,jquery,sass,bootstrap,react,regex,git,github,heroku,vercel,githubactions,firebase,selenium&perline=5&theme=dark" />
   </a>
