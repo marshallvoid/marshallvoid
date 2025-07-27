@@ -1,4 +1,4 @@
-<!-- Header -->
+<!--
 <p align="center"><a href="##"><img src="./images/gif-2.gif" /></a></p>
 
 ---
@@ -13,14 +13,11 @@
 
 <br />
 
-<!-- Description -->
-<!-- ### 🔰 About me 🔰
-- 👋 Hi, I'm **Devlin**
+### 🔰 About me 🔰
+- 👋 Hi, I'm Tran Thanh Hiep, but you can also call me **Devlin**
 - 📚 I’m currently learning **Software Engineer** by self
-- 📫 [This is my email](mailto:hieptt.dev@gmail.com)
--->
+- 📫 This is my email [hieptt.dev@gmail.com](mailto:hieptt.dev@gmail.com)
 
-<!-- Technologies -->
 ### ⚡ Languages and Tools ⚡
 <p>
   <a href="https://skillicons.dev">
@@ -29,3 +26,4 @@
 </p>
 
 <br />
+-->
