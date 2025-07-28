@@ -1,22 +1,25 @@
-<!--
-<p align="center"><a href="##"><img src="./images/gif-2.gif" /></a></p>
+<p align="center">
+  <a href="#">
+    <img src="./images/gif-2.gif" alt="Animated Banner" />
+  </a>
+</p>
 
 ---
 
 <a href="https://app.daily.dev/deviquee">
-	<img
-	align="right"
-	src="./devcard.png"
-	width="350"
-	alt="Devlin Dev Card" />
+  <img
+    align="right"
+    src="./devcard.png"
+    width="350"
+    alt="Devlin's Dev Card" />
 </a>
 
 <br />
 
-### 🔰 About me 🔰
-- 👋 Hi, I'm Tran Thanh Hiep, but you can also call me **Devlin**
-- 📚 I’m currently learning **Software Engineer** by self
-- 📫 This is my email [hieptt.dev@gmail.com](mailto:hieptt.dev@gmail.com)
+### 🔰 About Me 🔰
+- 👋 Hi, I'm **Devlin**
+- 📚 I'm currently self-learning to become a **Software Engineer**
+- 📫 Feel free to reach out via email: [hieptt.dev@gmail.com](mailto:hieptt.dev@gmail.com)
 
 ### ⚡ Languages and Tools ⚡
 <p>
@@ -26,4 +29,3 @@
 </p>
 
 <br />
--->
