@@ -6,18 +6,18 @@
 
 ---
 
-<a href="https://app.daily.dev/deviquee">
+<a href="https://app.daily.dev/marshallvoid">
   <img
     align="right"
     src="./devcard.png"
     width="350"
-    alt="Devlin's Dev Card" />
+    alt="Marshall's Dev Card" />
 </a>
 
 <br />
 
 ### 🔰 About Me 🔰
-- 👋 Hi, I'm **Devlin**
+- 👋 Hi, I'm **Marshall**
 - 📚 I'm currently self-learning to become a **Software Engineer**
 - 📫 Feel free to reach out via email: [hieptt.dev@gmail.com](mailto:hieptt.dev@gmail.com)
 
